@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to the blog
 ---
-So... markdown is going to take some getting used to.
+Apparently this uses markdown and Jekyll. Yes, I did have to Google how to use markdown for this.
